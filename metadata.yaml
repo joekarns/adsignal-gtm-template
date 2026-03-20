@@ -1,5 +1,5 @@
 homepage: "https://www.flb7.com"
 documentation: "https://www.flb7.com/docs/gtm"
 versions:
-  - sha: HEAD
+  - sha: 025cb91ec8a1f913689e95c22b4f0d9cd905aec3
     changeNotes: "Initial release — pageview tracking with AdSignal pixel."
